@@ -1,0 +1,11 @@
+Package: useraddins
+Title: User Addins
+Version: 0.1.0
+Description: Add customized addins
+Depends:
+    R (>= 3.0.0)
+Imports:
+    rstudioapi (>= 0.4),
+License: MIT + file LICENSE
+LazyData: true
+RoxygenNote: 5.0.1

@@ -1,0 +1,4 @@
+Name: Insert Comment Block
+Description: Inserts comment block at the cursor position.
+Binding: insertComment
+Interactive: false
